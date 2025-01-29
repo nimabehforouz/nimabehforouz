@@ -1,4 +1,8 @@
 ## Hi there 👋
+<p align="center">
+  <img src="https://media.giphy.com/media/x7gybOmE9zBmw/giphy.gif" alt="Funny GIF">
+</p>
+
 [![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=nimabehforouz)]
 
 <!--
