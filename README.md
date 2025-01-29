@@ -3,7 +3,11 @@
   <img src="https://media.giphy.com/media/x7gybOmE9zBmw/giphy.gif" alt="Funny GIF">
 </p>
 
-[![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=nimabehforouz)]
+<p align="center">
+  <a href="https://github.com/nimabehforouz">
+    <img src="https://nirzak-streak-stats.vercel.app/?user=nimabehforouz" alt="GitHub Streak">
+  </a>
+</p>
 
 <!--
 **nimabehforouz/nimabehforouz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
